@@ -8,7 +8,7 @@ Omar Ashraf Ezzat <br>
 Zeina Amr Nabil <br>
 Malak Tamer Abdelrazek <br>
 Raneem Rezk Gaber<br>
-Abadon Elwy Wadiaa <br>
+Abanob Elwy Wadiaa <br>
 Rania Emam Ebrahim <br>
 
 # Instructor
