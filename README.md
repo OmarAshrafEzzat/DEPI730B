@@ -3,7 +3,7 @@ ReOwned connects people who want to rent or sell used devices with users seeking
 The platform ensures transparency through condition tracking and trust features.
 
 
-#Team Members
+# Team Members
 Omar Ashraf Ezzat
 Zeina Amr Nabil
 Malak Tamer Abdelrazek
