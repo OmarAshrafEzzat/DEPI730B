@@ -4,91 +4,91 @@ The platform ensures transparency through condition tracking and trust features.
 
 
 # Team Members
-Omar Ashraf Ezzat
-Zeina Amr Nabil
-Malak Tamer Abdelrazek
-Raneem Rezk Gaber
-Abadon Elwy Wadiaa
-Rania Emam Ebrahim
+Omar Ashraf Ezzat <br>
+Zeina Amr Nabil <br>
+Malak Tamer Abdelrazek <br>
+Raneem Rezk Gaber<br>
+Abadon Elwy Wadiaa <br>
+Rania Emam Ebrahim <br>
 
 # Instructor
 Sama Yasser
 
 # Project Overview
-This project is a C2C web platform for renting and selling second-hand items, designed to connect owners who want to rent out or sell their belongings with renters or buyers seeking affordable and verified options. The platform focuses on trust, transparency, and item condition tracking throughout the rental and sale process to ensure a safe and reliable user experience.
-•	Enable users to rent, sell, or both rent and sell second-hand items.
-•	Support secure peer-to-peer transactions through clear item information.
-•	Reduce disputes by tracking item condition before and after transactions.
-•	Improve user confidence through ratings and verification indicators
+This project is a C2C web platform for renting and selling second-hand items, designed to connect owners who want to rent out or sell their belongings with renters or buyers seeking affordable and verified options. The platform focuses on trust, transparency, and item condition tracking throughout the rental and sale process to ensure a safe and reliable user experience. <br>
+•	Enable users to rent, sell, or both rent and sell second-hand items. <br>
+•	Support secure peer-to-peer transactions through clear item information. <br>
+•	Reduce disputes by tracking item condition before and after transactions.<br>
+•	Improve user confidence through ratings and verification indicators<br>
 
 # Project Objective
 To design a peer-to-peer platform that allows users to rent or sell high-end tech equipment, with a strong focus on trust, transparency, and item condition verification through an intuitive inspection workflow.
 
 # Project Scope
-•	User profiles for owners and renters/buyers.
-•	Item listing with option to Rent, Sell, or Both.
-•	Product details: photos, specs, price (rental / selling), and insurance status.
-•	Calendar booking for rental items.
-•	Item inspection system with photo upload before and after rental.
-•	Condition checklist and inspection confirmation.
-•	Before/After condition comparison to prevent disputes.
-•	Second-hand selling flow with condition grading and final confirmation.
-•	User ratings and trust indicators.
-•	Documentation: user flows, wireframes, UI screens, and interactive prototype.
+•	User profiles for owners and renters/buyers.<br>
+•	Item listing with option to Rent, Sell, or Both.<br>
+•	Product details: photos, specs, price (rental / selling), and insurance status.<br>
+•	Calendar booking for rental items.<br>
+•	Item inspection system with photo upload before and after rental.<br> 
+•	Condition checklist and inspection confirmation.<br> 
+•	Before/After condition comparison to prevent disputes.<br>
+•	Second-hand selling flow with condition grading and final confirmation. <br>
+•	User ratings and trust indicators. <br>
+•	Documentation: user flows, wireframes, UI screens, and interactive prototype. <br>
 
 # Project Plan
-Week 1 — Kickoff & Planning
-•	Define project scope for renting and selling second-hand devices.
-•	Identify target users and create user personas.
-•	Define device categories (phones, laptops, accessories, etc.).
-•	Research competitors and similar platforms.
-•	Define key assumptions, constraints, and success criteria.
-•	Identify key performance indicators (KPIs) such as:
-   • Average item price
-   • Rental demand
-   • Most rented and sold devices
+<h2>Week 1 — Kickoff & Planning</h2> <br>
+•	Define project scope for renting and selling second-hand devices.<br> 
+•	Identify target users and create user personas.<br> 
+•	Define device categories (phones, laptops, accessories, etc.). <br>
+•	Research competitors and similar platforms.<br>
+•	Define key assumptions, constraints, and success criteria. <br>
+•	Identify key performance indicators (KPIs) such as:<br>
+   • Average item price<br>
+   • Rental demand<br>
+   • Most rented and sold devices<br>
    
-Week 2 — Data & Content Preparation
-•	Define item attributes (price, condition, brand, age).
-•	Standardize condition labels (new / used / refurbished).
-•	Categorize devices by price range and device type.
-•	Define rules for rental duration and pricing.
-•	Validate consistency of item information across listings.
+<h2>Week 2 — Data & Content Preparation</h2> <br>
+•	Define item attributes (price, condition, brand, age). <br>
+•	Standardize condition labels (new / used / refurbished). <br>
+•	Categorize devices by price range and device type. <br>
+•	Define rules for rental duration and pricing. <br>
+•	Validate consistency of item information across listings. <br>
 
-Week 3 — Analysis & Insights
-•	Analyze renting vs selling trends.
-•	Study price distribution across device categories.
-•	Analyze impact of device condition on price.
-•	Identify high-demand devices and brands.
-•	Explore seasonal patterns in rental demand.
-•	Derive insights to support UX and feature decisions.
+<h2>Week 3 — Analysis & Insights</h2>
+•	Analyze renting vs selling trends.<br>
+•	Study price distribution across device categories.<br>
+•	Analyze impact of device condition on price.<br>
+•	Identify high-demand devices and brands.<br>
+•	Explore seasonal patterns in rental demand.<br>
+•	Derive insights to support UX and feature decisions.<br>
 
-Week 4 — UX Structure & Design
-•	Define information architecture and navigation.
-•	Design user flows for:
-   • Browsing and searching devices
-   • Renting or buying devices
-   • Listing items for rent or sale
-•	Create wireframes for key screens:
-   • Home page
-   • Categories page
-   • Device details page
-   • Sell / Rent device page
-   • User profile page
-•	Define core interaction patterns.
+<h2>Week 4 — UX Structure & Design</h2>
+•	Define information architecture and navigation.<br>
+•	Design user flows for:<br>
+   • Browsing and searching devices<br>
+   • Renting or buying devices<br>
+   • Listing items for rent or sale<br>
+•	Create wireframes for key screens:<br>
+   • Home page<br>
+   • Categories page<br>
+   • Device details page<br>
+   • Sell / Rent device page<br>
+   • User profile page<br>
+•	Define core interaction patterns.<br>
 
-Week 5 — UI Design, Prototype & Finalization
-•	Design high-fidelity UI screens.
-•	Create inspection and condition display components.
-•	Add trust elements (ratings, verification badges).
-•	Define advanced features:
-   • Smart filters
-   • Rent vs buy comparison
-   • Availability calendar
-   • Wishlist and favorites
-•	Create a basic style guide:
-   • Color palette
-   • Typography hierarchy
-   • Icon system
-•	Build a clickable prototype.
-•	Prepare final documentation and presentation.
+<h2>Week 5 — UI Design, Prototype & Finalization</h2>
+•	Design high-fidelity UI screens.<br>
+•	Create inspection and condition display components.<br>
+•	Add trust elements (ratings, verification badges).<br>
+•	Define advanced features:<br>
+   • Smart filters<br>
+   • Rent vs buy comparison<br>
+   • Availability calendar<br>
+   • Wishlist and favorites<br>
+•	Create a basic style guide:<br>
+   • Color palette<br>
+   • Typography hierarchy<br>
+   • Icon system<br>
+•	Build a clickable prototype.<br>
+•	Prepare final documentation and presentation.<br>
