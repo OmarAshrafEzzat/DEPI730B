@@ -7,7 +7,6 @@ The platform ensures transparency through condition tracking and trust features.
 Omar Ashraf Ezzat <br>
 Zeina Amr Nabil <br>
 Malak Tamer Abdelrazek <br>
-Raneem Rezk Gaber<br>
 Abanob Elwy Wadiaa <br>
 Rania Emam Ebrahim <br>
 
